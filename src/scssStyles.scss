@@ -1,0 +1,15 @@
+$standard-backgr-color: lightblue;
+$standard-text-color: black;
+
+.color-background {
+    background-color: $standard-backgr-color;
+}
+
+.color-text-basic {
+    color: $standard-text-color;
+}
+
+body {
+    font-family: Verdana, sans-serif;
+    color: blue;
+}
